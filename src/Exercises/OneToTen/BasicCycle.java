@@ -1,4 +1,4 @@
-package Exercises;
+package Exercises.OneToTen;
 
 public class BasicCycle {
     public int start;
